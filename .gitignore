@@ -1,0 +1,16 @@
+a0header.ps
+.hgdp.lb
+Makefile
+*.bst
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+hgdp.pdf
+*.toc
+*.lof
+*.lot
+*.ttt
+*.fff
+sftp-config.json
